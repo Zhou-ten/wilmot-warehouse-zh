@@ -1,0 +1,36 @@
+# Local build and packaging output
+/build*/
+/dist/
+/local-assets/
+/game/
+/WilmotPC/
+__pycache__/
+*.pyc
+.venv/
+*.zip
+*.7z
+*.log
+*.o
+*.obj
+*.pdb
+*.lib
+*.a
+# Proprietary game content, originals, saves and fonts must never be committed.
+*.exe
+*.ndll
+*.bin
+*.ttf
+*.otf
+*.ttc
+*.png
+*.jpg
+*.ogg
+*.mp3
+*.wav
+*.swf
+*_Backup*/
+_Wilmot_ZH_*/
+.wilmzh-*/
+savedata*
+globaldata*
+*.dll

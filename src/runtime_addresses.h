@@ -1,0 +1,3 @@
+#define MAIN_VTABLE_RVA 0xa4e448
+#define TARGET_TIMESTAMP 0x5f1eec6b
+#define TARGET_IMAGE_SIZE 0xcf1000
